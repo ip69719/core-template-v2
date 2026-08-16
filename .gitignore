@@ -1,0 +1,10 @@
+core.python*
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+# Virtual environments and secret files
+env.py
+# Jupyter Notebook
+.ipynb_checkpoints
+# Dependencies
+node_modules/
